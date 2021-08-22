@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @UDAZ
-- 👀 I’m interested in ruby, php, JavaScript, jQuery, Vue.js
-- 🌱 I’m currently learning ruby on rails, Vue.js
+- 👀 I’m interested in ruby, php, JavaScript, jQuery, Node.js, Java.
+- 🌱 I’m currently learning Java.
 - 💞️ I’m looking to collaborate on ???
 - 📫 How to reach me ???
 
